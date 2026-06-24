@@ -1,0 +1,50 @@
+Hypertension (High Blood Pressure)
+
+Hypertension is a condition in which blood pressure remains consistently elevated over time.
+
+Blood Pressure Categories:
+
+Normal:
+
+* Systolic below 120
+* Diastolic below 80
+
+Elevated:
+
+* Systolic 120-129
+* Diastolic below 80
+
+Stage 1 Hypertension:
+
+* Systolic 130-139
+* Diastolic 80-89
+
+Stage 2 Hypertension:
+
+* Systolic 140 or higher
+* Diastolic 90 or higher
+
+Risk Factors:
+
+* High sodium intake
+* Obesity
+* Lack of physical activity
+* Smoking
+* Excessive alcohol use
+* Family history
+
+Complications:
+
+* Heart attack
+* Stroke
+* Kidney disease
+* Heart failure
+* Vision problems
+
+Management:
+
+* Reduce salt intake
+* Exercise regularly
+* Maintain a healthy weight
+* Monitor blood pressure
+* Follow prescribed treatment plans
